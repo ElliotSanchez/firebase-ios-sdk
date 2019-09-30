@@ -1,3 +1,6 @@
+# Swift Package Manager version of Firebase iOS
+This forks adds a Package.swift
+
 # Firebase iOS Open Source Development [![Build Status](https://travis-ci.org/firebase/firebase-ios-sdk.svg?branch=master)](https://travis-ci.org/firebase/firebase-ios-sdk)
 
 This repository contains a subset of the Firebase iOS SDK source. It currently
